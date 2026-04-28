@@ -3,7 +3,7 @@
 # 🌌 Agent-Oriented Programming (AOP)
 ### *From Passive Objects to Autonomous Intent*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)].
 [![Paradigm: AOP](https://img.shields.io/badge/Paradigm-AOP-blueviolet)](https://arxiv.org/submit)
 
 > *"In the 20th century, we taught machines to follow instructions. In the 21st, we are teaching them to achieve goals. AOP is the grammar of that transition."*
@@ -85,6 +85,5 @@ AOP is an open-source "Request for Comments" (RFC). We are currently seeking:
 ---
 
 ## ⚖️ License
-This project is licensed under the **MIT License**—because the future of agency belongs to everyone.
-
+This project is licensed under the [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)].
 ---
